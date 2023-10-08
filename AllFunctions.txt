@@ -1,0 +1,30 @@
+ExtractJpgName- # Function used to extract the JPG names from the URLs
+ImageInfoDisplay - # Function used to display the images alongside their relevant data
+DeepFaceProcess - # Function used to carry out the DeepFace API on the provided list of images
+InferdoAPIProcess - # Function used to carry out the Inferdo API on the provided list of images
+BetaFaceAPIProcess - # Function used to carry out the BetaFace API on the provided list of images
+CleanFairFaceTrainLabels - # Function used to replace race labels with labels common amongst the three implemented APIs
+CompareResultsToGroundTruth - # Function used to keep track of which results match with the groundturth of the training image labels
+DrawBarChart - # Function used to draw a bar chart of the passed data
+RetrieveImages - # Function used to retrive image links from the LAION-5B dataset 
+RetrieveImagesFromLinks - # Function used to attempt to convert image links into proper images
+CamelCase - # Function used to convert sentences to camel case and removes spaces. 
+RetrieveImagesLAION - # Function used to combine the functionality of the RetrieveImages & RetrieveImagesFromLinks functions
+SaveMetricsCSV - # Function used to save the data of the DeepFaceProcess as a csv (Used only in DeepFaceProcess function)
+SearchQueryFunc - # Function used to combine the the functionality of the RetrieveImagesLAION, DeepFaceProcess & ImageInfoDisplay functions
+DisplaySearchedImages - # Function used to search up images in the LAION-5B dataset and display the results
+ImageSimilarity - # Function used to measure the similarity between two images utilising the MSE
+MetricGenderDisplay - # Function used to measure gender metrics in relation to the DeepFace data passed
+MetricRaceDisplay - # Function used to measure race metrics in relation to the DeepFace data passed
+MetricEmotionDisplay - # Function used to measure emotion metrics in relation to the DeepFace data passed
+MetricAgeDisplay - # Function used to measure age metrics in relation to the DeepFace data passed
+LoadImagesFromFolder - # Function used to load images from a specified folder 
+LoadMetricCSVFromFolder - # Function used to access the images & output_data.csv file to load the necessary data & metrics to be used by the program
+
+
+
+
+# Progress bar used to keep track of process execution
+ # Updating the progress bar
+
+Determine if we will be using Path or not for file paths
