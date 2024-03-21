@@ -1,0 +1,24 @@
+Still use a dataset first we started LAION-5B then we changed dataset. Showcase it as a timeline of events occuring in the paper itself.
+
+Once you have decided on the dataset, determine the subset you are going to have the annotators label, then create teh google doc and the code required to compare the human annotations to the DeepFace annotations so that we can see its innate bias. 
+
+Try to find a dataset  ex: https://github.com/Zjh-819/LLMDataHub, https://kili-technology.com/large-language-models-llms/9-open-sourced-datasets-for-training-large-language-models
+
+ChatGPT Plus check if its worth using as opposed to the API itself.
+
+Looker Studio (used for graph visualisation)
+
+Dataset (model) -> Generative models experiment
+
+Check that the area metric works correctly.
+Check that FYP-Revised Notebook makes sense / works.
+
+Video & Article to write
+
+Continue to generate image and remove unwanted ones by hand
+
+Change Dall-E to output the revisde prompt as well as the image and save them somewhere. - done
+
+Check Stable Diffusion model outputs with size 1024x1024 - Done
+
+Send graph images Dylan - Done
