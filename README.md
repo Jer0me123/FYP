@@ -42,17 +42,17 @@ datasets.
 
 ## Repository Content 
 
-* [Thesis](../main/FYP-Thesis%20Write%20Up/FYP.pdf)
-* [VIVA Presentation](../main/FYP-Thesis%20Write%20Up/VIVA%20-%20PPT.pptx)
-* [Thesis Poster](../main/FYP-Thesis%20Write%20Up/Poster.pdf)
-* [FYP - Pipeline](../main/Testing/FYP%20-%20FullPipeline.ipynb)
-* [FYP - Extra Functions](../main/Testing/ExtraFunctions.ipynb)
-* [Stable Diffusion Images]
-* [Dall-E Images]
-* [Midjourney Images]
-* [LAion-400M Images]
-* [Human Annotated Images]
+* [Thesis](../main/FYP-Paper.pdf)
+* [VIVA Presentation](../main/VIVA-Presentation.pdf)
+* [Thesis Poster](../main/FYP-Poster.pdf)
+* [FYP - Pipeline](../main/Executables/FYP-FullPipeline.ipynb)
+* [FYP - Extra Functions](../main/Executables/ExtraFunctions.ipynb)
+* [Stable Diffusion Images](../main/Generative_Retrieved_Images/StableDiffusionImages.zip)
+* [Dall-E Images](../main/Generative_Retrieved_Images/Dall-EImages.zip)
+* [Midjourney Images](../main/Generative_Retrieved_Images/MidjourneyImages.zip)
+* [LAION-400M Images](../main/Generative_Retrieved_Images/LAION-400M.zip)
+* [Human Annotated Images](../main/Generative_Retrieved_Images/LAION-400M-GoogleForm-Images.zip)
 
 ![alt text][logo]
 
-[logo]: university/logo/path/img.jpg "University Logo"
+[logo]: ../main/University-of-Malta.png "University Logo"
