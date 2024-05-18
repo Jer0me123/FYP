@@ -47,11 +47,6 @@ datasets.
 * [Thesis Poster](../main/FYP-Poster.pdf)
 * [FYP - Pipeline](../main/Executables/FYP-FullPipeline.ipynb)
 * [FYP - Extra Functions](../main/Executables/ExtraFunctions.ipynb)
-* [Stable Diffusion Images](../main/Generative_Retrieved_Images/StableDiffusionImages.zip)
-* [Dall-E Images](../main/Generative_Retrieved_Images/Dall-EImages.zip)
-* [Midjourney Images](../main/Generative_Retrieved_Images/MidjourneyImages.zip)
-* [LAION-400M Images](../main/Generative_Retrieved_Images/LAION-400M.zip)
-* [Human Annotated Images](../main/Generative_Retrieved_Images/LAION-400M-GoogleForm-Images.zip)
 
 ![alt text][logo]
 
