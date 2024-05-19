@@ -1,21 +1,5 @@
 *.jpg
 *.jpeg
 *.png
-*.csv
-DownloadedImages
-Datasets
-Dall-E
-FairFace
-Old_Unused_Files
-Papers
-ReportImages
-StableDiffusion
-TrainedModels
-runs
-kaggle.json
-FYP_Files_Not_On_Github
 
-
-
-!Images/Dall_E_Images/*.jpg
 !University-of-Malta.png
