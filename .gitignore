@@ -1,7 +1,6 @@
 *.jpg
 *.jpeg
 *.png
-*.zip
 *.csv
 DownloadedImages
 Datasets
@@ -18,5 +17,5 @@ FYP_Files_Not_On_Github
 
 
 
-!Generative_Retrieved_Images/*
+!Images/Dall_E_Images/*.jpg
 !University-of-Malta.png
