@@ -4,7 +4,8 @@
 Jerome Agius 
 
 ### Supervisors
-Dr Dylan Syechell - Supervisor
+Dr Dylan Syechell - Supervisor 
+
 Prof. John Abela - Co Supervisor
 
 ## Abstract 
@@ -48,6 +49,9 @@ datasets.
 * [FYP - Pipeline](../main/Executables/FYP-FullPipeline.ipynb)
 * [FYP - Extra Functions](../main/Executables/ExtraFunctions.ipynb)
 
-![alt text][logo]
+<hr>
 
-[logo]: ../main/University-of-Malta.png "University Logo"
+<p align="center">
+  <img src="../main/University-of-Malta.png" alt="University Logo" width="200"/>
+</p>
+
