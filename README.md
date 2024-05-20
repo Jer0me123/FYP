@@ -3,8 +3,8 @@
 ### Authors:
 Jerome Agius 
 
-### Supervisors
-Dr Dylan Syechell - Supervisor 
+### Supervisors:
+Dr Dylan Seychell - Supervisor 
 
 Prof. John Abela - Co Supervisor
 
