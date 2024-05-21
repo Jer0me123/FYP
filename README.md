@@ -47,7 +47,7 @@ datasets.
 * [VIVA Presentation](../main/VIVA-Presentation.pdf) - This is the presentation used for the VIVA.
 * [Thesis Poster](../main/FYP-Poster.pdf) - This is the poster presented during the exhibition.
 * [FYP - Pipeline](../main/Executables/FYP-FullPipeline.ipynb) - This contains the main code associated with the research.
-* [FYP - Extra Functions](../main/Executables/ExtraFunctions.ipynb) - This contains extra code not directly assocaited with the research.
+* [FYP - Extra Functions](../main/Executables/ExtraFunctions.ipynb) - This contains extra code not directly associated with the research.
 * [Images](../main/Images/) - The directory contains the images used throughout the research paper. The **DeepFaceImagesMetrics** & **FairFaceImagesMetrics** subdirectories contain the cropped faces of all the images alongside the extracted DeepFace and FairFace metrics. 
 
 <hr>
